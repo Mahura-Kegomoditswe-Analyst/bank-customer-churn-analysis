@@ -1,0 +1,61 @@
+## 📝 Assignment Answers
+
+Below are the answers based on the cleaned dataset and analysis completed using Excel Pivot Tables and the Data Analysis ToolPak.
+
+---
+
+### **1. How many missing values are in the "EstimatedSalary" variable?**  
+**➡️ 3 missing values**
+
+---
+
+### **2. What is the average balance excluding the inconsistent value?**  
+**➡️ 128,388.90**
+
+---
+
+### **3. What is the average credit score of the customers from Germany?**  
+**➡️ 579.69**
+
+---
+
+### **4. What is the average bank balance of the male customers from France?**  
+**➡️ 133,204.76**
+
+---
+
+### **5. How many customers churned among those who have a credit card?**  
+**➡️ 123 customers**
+
+---
+
+### **6. How many customers stayed among those who have used 3 products?**  
+**➡️ 53 customers**
+
+---
+
+### **7. What is the average credit score for a churned customer with a tenure of 1 year?**  
+**➡️ 616.83**
+
+---
+
+### **8. What is the average salary of churned customers?**  
+**➡️ 83,428.09**
+
+---
+
+### **9. Conclusion for Research Question 1**  
+**Is there a significant difference in customers' average earnings between churned and non-churned customers?**
+
+**➡️ Conclusion:**  
+There is **NO significant difference** in customers' average earnings between churned and not-churned customers.
+
+---
+
+### **10. Conclusion for Research Question 2**  
+**Is there a significant difference in customers' average credit scores among geographic locations?**
+
+**➡️ Conclusion:**  
+There is **NO significant difference** in customers' average credit scores across different geographic locations.
+
+---
